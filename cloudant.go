@@ -1,4 +1,4 @@
-package cloudant
+package client
 
 import "fmt"
 
